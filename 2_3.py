@@ -61,3 +61,8 @@ print(str2.format("Texas", 26448000 / 309000000))
 
 str2 = "Of the total U.S. population, {0:.2%} of households resides in {1:s}".format(26448000 / 309000000, "Texas")
 
+num1 = 1
+num2 = 10
+num3 = 1000
+sum_of_all_numbers = num1 + num2 + num3 
+print("Sum is {}".format(sum_of_all_numbers))
