@@ -4,7 +4,7 @@
 # speed = 50 
 # time_elapsed = 14 
 # distance = speed * time_elapsed
-# print(distance)
+# print(distance) 
 
 # change the string into lower case 
 # toLowerCase() 
@@ -58,4 +58,6 @@ print("inches", inches)
 
 inches = 10 // 3 # int method return integer
 print("inches", inches)
+
+inches = a /= 5
 
